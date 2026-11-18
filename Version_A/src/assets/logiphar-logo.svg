@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 168" role="img" aria-label="LOGIPHAR Transport &amp; Distribution">
+  <defs>
+    <linearGradient id="orange" x2="0" y2="1"><stop stop-color="#ffad25"/><stop offset="1" stop-color="#eb7510"/></linearGradient>
+  </defs>
+  <g stroke="#111820" stroke-width="3" stroke-linejoin="round">
+    <path fill="#fff" d="M55 4 91 38 78 51 65 38 65 83 48 83 48 38 35 51 22 38Z"/>
+    <path fill="#fff" d="M55 82 72 82 72 126 85 113 98 126 63 161 28 126 41 113 55 126Z"/>
+    <path fill="#fff" d="M84 89 119 89 105 75 118 62 154 98 118 134 105 121 119 107 84 107Z"/>
+    <path fill="url(#orange)" d="M57 70a43 43 0 1 0 0 86 43 43 0 0 0 0-86Zm0 17a26 26 0 1 1 0 52 26 26 0 0 1 0-52Z"/>
+    <path fill="#fff" d="M44 107c10-6 18-5 29 2l-5 10c-9-5-17-6-27-1Z"/>
+  </g>
+  <text x="87" y="78" fill="url(#orange)" stroke="#0b0c11" stroke-width="3" paint-order="stroke" font-family="Arial Black,Impact,sans-serif" font-size="72" font-weight="900" letter-spacing="-4">LOGI</text>
+  <text x="275" y="78" fill="#ffffff" stroke="#12151a" stroke-width="3" paint-order="stroke" font-family="Arial Black,Impact,sans-serif" font-size="72" font-weight="900" letter-spacing="-4">PHAR</text>
+  <text x="157" y="126" fill="url(#orange)" stroke="#10151b" stroke-width="2" paint-order="stroke" font-family="Arial Black,Impact,sans-serif" font-size="28" font-weight="900">Transport &amp; Distribution</text>
+</svg>
